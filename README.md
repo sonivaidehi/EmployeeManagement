@@ -9,7 +9,7 @@ Manages employee and department informations
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/sonivaidehi/EmployeeManagement.git
 ```
 
 Go to the project directory
